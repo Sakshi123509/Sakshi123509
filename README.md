@@ -1,23 +1,37 @@
-Hi there 👋, I'm Sakshi Kadu!
+<h1 align="center">Hi there 👋, I'm Sakshi Kadu!</h1>
 
-🌟** About Me**
+<h3 align="center">✨ Aspiring Software Developer | MERN Stack Enthusiast | Problem Solver ✨</h3>
 
-🎓 3rd-year B.Tech student specializing in Computer Science and Engineering.
-💻 MERN stack developer with strong foundations in DSA.
-🤖 Aspiring Software Development Engineer (SDE) aiming to build scalable and impactful solutions.
+---
 
-**⚡ Skills & Technologies**
-DSA: Strong foundation and Problem Solving along with optimization.
-Languages:  C++, SQL, JS
-Frameworks:  Bootstrap,React, Tailwund CSS, MERN
-Databases: OracleSQL
-Tools: Github, Vercel, VS Code
+### 🌞 **About Me**
 
-**✨ Fun Facts**
-🎨 I love exploring creative ways to solve problems and learning every day, anywhere, from anyone.
-💪 A challenger challenging myself.
+🎓 I'm a 3rd-year **B.Tech student** specializing in *Computer Science and Engineering* at **YCCE, Nagpur**.  
+💻 Passionate about **MERN stack development** with a strong foundation in **DSA**.  
+🚀 Aspiring **Software Development Engineer (SDE)** — aiming to build scalable and impactful web solutions.  
+🌱 Currently learning **React Animations (GSAP)** and enhancing my **full-stack** skills.
 
-### 🧩 Platforms
+---
+
+### ⚙️ **Skills & Technologies**
+
+💡 **Languages:** C, C++, JavaScript, SQL  
+🎨 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js, GSAP  
+🧱 **Backend:** Node.js, Express.js  
+🗄️ **Databases:** MongoDB, OracleSQL  
+🧰 **Tools:** Git, GitHub, VS Code, Vercel  
+
+---
+
+### 💡 **Fun Facts**
+
+✨ I love exploring creative ways to solve problems and learning every day from anyone, anywhere.  
+💪 A challenger who believes in *“learning by building.”*  
+☕ My productivity fuel? Coffee + Code + Calm music 🎶
+
+---
+
+### 🧩 **Platforms**
 
 <p align="center">
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -28,7 +42,16 @@ Tools: Github, Vercel, VS Code
 
 ---
 
-### 🤝 Connect With Me
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi123509&show_icons=true&theme=radical" alt="Sakshi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi123509&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 **Connect With Me**
 
 <p align="center">
   <a href="mailto:kadusakshi945@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -38,5 +61,6 @@ Tools: Github, Vercel, VS Code
 
 ---
 
-✨ *Open to work for Software Developer or Frontend Developer roles*
-
+<p align="center">
+  ✨ *Open to work for Software Developer or Frontend Developer roles* ✨  
+</p>
