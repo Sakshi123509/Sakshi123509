@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sakshi Kadu!</h1>
 
-<h3 align="center">✨ Aspiring Software Developer | MERN Stack Enthusiast | Problem Solver ✨</h3>
+<h3 align="center">✨ Aspiring Software Developer | MERN Stack Enthusiast </h3>
 
 ---
 
@@ -9,7 +9,7 @@
 🎓 I'm a 3rd-year **B.Tech student** specializing in *Computer Science and Engineering* at **YCCE, Nagpur**.  
 💻 Passionate about **MERN stack development** with a strong foundation in **DSA**.  
 🚀 Aspiring **Software Development Engineer (SDE)** — aiming to build scalable and impactful web solutions.  
-🌱 Currently learning **React Animations (GSAP)** and enhancing my **full-stack** skills.
+🌱 Currently learning **backend functionalities** and enhancing my **full-stack** skills.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ✨ I love exploring creative ways to solve problems and learning every day from anyone, anywhere.  
 💪 A challenger who believes in *“learning by building.”*  
-☕ My productivity fuel? Coffee + Code + Calm music 🎶
+☕ My productivity fuel? Calm music 🎶
 
 ---
 
