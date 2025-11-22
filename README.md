@@ -19,7 +19,7 @@
 🎨 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js, GSAP  
 🧱 **Backend:** Node.js, Express.js  
 🗄️ **Databases:** MongoDB, OracleSQL  
-🧰 **Tools:** Git, GitHub, VS Code, Vercel  
+🧰 **Tools:** Git, GitHub, VS Code
 
 ---
 
