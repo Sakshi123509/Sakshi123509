@@ -6,10 +6,10 @@
 
 ### 🌞 **About Me**
 
-🎓 I'm a 3rd-year **B.Tech student** specializing in *Computer Science and Engineering* at **YCCE, Nagpur**.  
+🎓 I'm a 3rd-year B.Tech CSE student (2022-2026) specializing in *Computer Science and Engineering* at **YCCE, Nagpur**.  
 💻 Passionate about **MERN stack development** with a strong foundation in **DSA**.  
 🚀 Aspiring **Software Development Engineer (SDE)** — aiming to build scalable and impactful web solutions.  
-🌱 Currently learning **backend functionalities** and enhancing my **full-stack** skills.
+🌱 Currently building full-stack AI projects with MERN Stack
 
 ---
 
