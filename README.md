@@ -4,7 +4,7 @@
 
 ---
 
-### 🌞 **About Me**
+# 🌞 About Me:
 
 🎓 I'm a 3rd-year B.Tech CSE student (2022-2026) specializing in *Computer Science and Engineering* at **YCCE, Nagpur**.  
 💻 Passionate about **MERN stack development** with a strong foundation in **DSA**.  
@@ -23,7 +23,7 @@
 
 ---
 
-### 💡 **Fun Facts**
+##💡 Fun Facts:
 
 ✨ I love exploring creative ways to solve problems and learning every day from anyone, anywhere.  
 💪 A challenger who believes in *“learning by building.”*  
@@ -34,7 +34,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sakshi_k945) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-kadu-40a441322?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kadusakshi945@gmail.com) 
 
-### 🧩 **Platforms**
+## 🧩 Platforms
 
 <p align="center">
   <a href="https://leetcode.com/u/Sakshi_kadu945/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
