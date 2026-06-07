@@ -15,7 +15,7 @@
   </a>&nbsp;
   <a href="https://www.geeksforgeeks.org/user/user_whn0mee93vd/">
     <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  </a>
+  </a>&nbsp;
     <a href="https://www.codechef.com/users/cloud_spell_36">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
