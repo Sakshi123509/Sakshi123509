@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+  </a>;
   <a href="mailto:Kadusakshi945@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>&nbsp;
