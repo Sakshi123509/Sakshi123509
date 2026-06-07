@@ -1,154 +1,64 @@
-<!-- EXCLUSIVE CYBER-GRID HEADER: UNIQUE NAME PORTION -->
-<table align="center" width="100%">
+<!-- 🔥 ULTRA-IMPACTFUL PREMIUM CYBER ENGINE HEADER 🔥 -->
+<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="background: linear-gradient(135deg, #0f0c20 0%, #15102a 50%, #241442 100%); border: 2px dashed #9B72CF; border-radius: 16px; padding: 30px 20px; box-shadow: 0px 8px 20px rgba(155, 114, 207, 0.15);">
-      <!-- Typing Neon Name -->
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=1500&color=E2D9F3&center=true&vCenter=true&width=500&height=65&lines=SAKSHI+KADU" alt="Sakshi Kadu" />
-      <br/>
-      <!-- Dynamic Tech Sub-labels with custom dividers -->
-      <p align="center" style="margin: 5px 0 0 0;">
-        <code style="color: #9B72CF; font-size: 15px; font-weight: bold;">FULL-STACK DEVELOPER</code> 
-        <span style="color: #533483;"> • </span> 
-        <code style="color: #e2d9f3; font-size: 15px; font-weight: bold;">AI APP BUILDER</code> 
-        <span style="color: #533483;"> • </span> 
-        <code style="color: #9B72CF; font-size: 15px; font-weight: bold;">FINAL YEAR CSE</code>
-      </p>
+    <td style="background: #09080f; border: 2px solid #9B72CF; border-radius: 20px; padding: 40px 25px; box-shadow: 0 20px 50px rgba(155, 114, 207, 0.25); background-image: radial-gradient(rgba(155, 114, 207, 0.15) 1px, transparent 0); background-size: 24px 24px;">
+      
+      <!-- Top Status Bar (Terminal Style) -->
+      <div align="left" style="margin-bottom: 25px; margin-left: 5px;">
+        <span style="color: #ff5f56; font-size: 22px;">●</span>
+        <span style="color: #ffbd2e; font-size: 22px;">●</span>
+        <span style="color: #27c93f; font-size: 22px;">●</span>
+        <code style="color: #63458a; margin-left: 15px; font-size: 14px; font-family: 'Fira Code', monospace;">root@sakshikadu:~$ ./init_core_engine</code>
+      </div>
+
+      <!-- Main Glowing Identity -->
+      <div align="center">
+        <h1 style="font-family: 'Montserrat', 'Segoe UI', sans-serif; font-size: 52px; font-weight: 900; color: #ffffff; letter-spacing: 5px; margin: 0 0 10px 0; text-shadow: 0 0 20px rgba(155, 114, 207, 0.6), 0 0 40px rgba(155, 114, 207, 0.3);">
+          SAKSHI KADU
+        </h1>
+        
+        <!-- Glowing Subtitle Ticker alternative -->
+        <div style="background: rgba(155, 114, 207, 0.1); border: 1px solid rgba(155, 114, 207, 0.3); padding: 8px 20px; border-radius: 50px; display: inline-block; margin-bottom: 25px;">
+          <code style="color: #e2d9f3; font-size: 14px; letter-spacing: 2px; font-family: 'Fira Code', monospace; text-transform: uppercase;">
+            🚀 Full Stack SDE • AI Builder • Dev Ops
+          </code>
+        </div>
+      </div>
+
+      <!-- Micro Metrics Grid (Shows data depth immediately) -->
+      <table align="center" width="90%" style="border-top: 1px dashed rgba(155, 114, 207, 0.3); padding-top: 25px;">
+        <tr>
+          <td align="center" width="33%">
+            <code style="color: #9B72CF; font-size: 12px; display: block; font-family: 'Fira Code', monospace;">[ ALGORITHMS ]</code>
+            <span style="font-family: 'Segoe UI', sans-serif; font-size: 22px; font-weight: 800; color: #ffffff;">500+ Cracked</span>
+          </td>
+          <td align="center" width="34%" style="border-left: 1px solid rgba(155, 114, 207, 0.2); border-right: 1px solid rgba(155, 114, 207, 0.2);">
+            <code style="color: #e2d9f3; font-size: 12px; display: block; font-family: 'Fira Code', monospace;">[ ARCHITECTURE ]</code>
+            <span style="font-family: 'Segoe UI', sans-serif; font-size: 22px; font-weight: 800; color: #14B8A6;">MERN + AI APIs</span>
+          </td>
+          <td align="center" width="33%">
+            <code style="color: #9B72CF; font-size: 12px; display: block; font-family: 'Fira Code', monospace;">[ STATUS ]</code>
+            <span style="font-family: 'Segoe UI', sans-serif; font-size: 22px; font-weight: 800; color: #FFA116;">Shipping Clixora</span>
+          </td>
+        </tr>
+      </table>
+
     </td>
   </tr>
 </table>
 
-<div align="center" style="margin-top: 15px;">
-  <code style="font-size: 15px; color: #e2d9f3; letter-spacing: 1px;">✦ I don't just learn tech — I build with it. ✦</code>
+<div align="center" style="margin-top: 25px; margin-bottom: 15px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=9B72CF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Final+year+CSE+%40+YCCE+Nagpur;%E2%9C%A6+Building+production-grade+AI+saas+apps;%E2%9C%A6+Open+to+SDE+%26+Frontend+engineering+roles" alt="Typing Text" />
 </div>
 
-<!-- CONNECT WITH ME (ORIGINAL LINKS) -->
-<div align="center" style="margin-top: 15px;">
-  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:Kadusakshi945@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/Sakshi_kadu945/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/user_whn0mee93vd/">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://instagram.com/Sakshi_k945">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/cloud_spell_36">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B72CF&center=true&vCenter=true&width=850&lines=Final+year+CSE+%40+YCCE+Nagpur+%F0%9F%8E%93;MERN+Stack+%2B+AI+APIs+%3D+my+stack+of+choice;500%2B+DSA+problems+%E2%80%94+still+counting;Currently+shipping+Clixora+%F0%9F%9A%80;Open+to+SDE+%26+Frontend+roles" />
+<!-- CONNECT WITH ME (ORIGINAL LINKS - TIED CLEANLY TO INTERFACE) -->
+<div align="center" style="margin-bottom: 25px;">
+  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:Kadusakshi945@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Sakshi_kadu945/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/user_whn0mee93vd/"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/Sakshi_k945"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.codechef.com/users/cloud_spell_36"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
 </div>
 
 ---
-
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### ⚡ Who Am I
-
-I'm Sakshi — a final-year CS student who got tired of watching tutorials and started building instead.
-
-- 🎓 B.Tech CSE @ **YCCE, Nagpur** (2022–2026)
-- 🔨 Currently building **Clixora** — an AI thumbnail generator (Day 5/10 self-imposed deadline)
-- 🧠 Active on DSA — 500+ problems, deep in **dynamic programming** right now
-- 💼 Previously interned as a developer; two live projects on my resume
-- 🎯 Targeting **SDE / Frontend Developer** roles — full-time or internship
-- 🎶 Best code comes with calm music in the background
-
-<br clear="right"/>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Languages & Tools**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-### 🚀 What I'm Building
-
-<div align="center">
-
-| # | Project | What It Does | Status |
-|---|---------|-------------|--------|
-| 01 | **Clixora** | AI-powered thumbnail generator — full-stack, auth complete, shipping fast | 🔨 Active |
-| 02 | **ShieldHer** | Women's safety app with ESP32 + GPS hardware integration | ✅ Live |
-| 03 | **ARIA** | AI assistant built on Gemini API with context-aware responses | ✅ Live |
-| 04 | **MockMind** | AI mock interview platform with real-time feedback | 📋 Soon |
-
-</div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi123509&theme=react-dark&hide_border=true&area=true&color=9B72CF&line=9B72CF&point=e2d9f3&custom_title=Sakshi's%20Contribution%20Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Sakshi123509&theme=dark&hide_border=true&ring=9B72CF&fire=e879a0&currStreakLabel=9B72CF&sideLabels=9B72CF&dates=888" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshi123509&show_icons=true&theme=dark&hide_border=true&icon_color=9B72CF&title_color=9B72CF&include_all_commits=true&count_private=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi123509&theme=dark&hide_border=true&layout=compact&title_color=9B72CF" />
-  <img width="49%" src="https://leetcard.jacoblin.cool/Sakshi_kadu945?theme=dark&font=Fira+Code&ext=heatmap&border=0" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi123509&column=6&theme=dark_lover&no-frame=true&no-bg=true&margin-w=6" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi123509&style=flat-square&color=9B72CF&label=Profile+Views" />
-  <br/><br/>
-  <sub>✦ Open to work — SDE & Frontend Developer roles ✦</sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:533483,60:0f3460,100:1a1a2e&section=footer" />
-</div>
