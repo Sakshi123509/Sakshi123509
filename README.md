@@ -8,16 +8,16 @@
 <!-- 💎 VERIFIED FLAT MINIMALIST LOGOS (NO REPO DEPENDENCY, NO BOXES, NO BLUE LINES) 💎 -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%); margin: 0 12px;" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:Kadusakshi945@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) ; margin: 0 12px;" alt="Gmail"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="LeetCode"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) ; margin: 0 12px;" alt="LeetCode"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/Sakshi_k945" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%); margin: 0 12px;" alt="Instagram"/>
   </a>
 </p>
 
