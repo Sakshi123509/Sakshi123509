@@ -6,19 +6,53 @@
 <br/>
 
 <!-- 💎 PRESERVED MINIMALIST ICONS (HIGH CONTRAST, 0% BLUE LINE RISK) 💎 -->
+</div>
+
+
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
+
+  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+
+  </a>&nbsp;
+
+  <a href="mailto:Kadusakshi945@gmail.com">
+
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+
+  </a>&nbsp;
+
+  <a href="https://leetcode.com/u/Sakshi_kadu945/">
+
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+
+  </a>&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/user/user_whn0mee93vd/">
+
+    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+
+  </a>&nbsp;
+
+  <a href="https://instagram.com/Sakshi_k945">
+
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+
+  </a>&nbsp;
+
+  <a href="https://www.codechef.com/users/cloud_spell_36">
+
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+
   </a>
-  <a href="mailto:Kadusakshi945@gmail.com" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
-  </a>
-  <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
-  </a>
-  <a href="https://instagram.com/Sakshi_k945" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
-  </a>
+
+</div>
+
+
+
+<br/>
 </div>
 
 <br/>
