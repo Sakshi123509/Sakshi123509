@@ -1,6 +1,17 @@
+<!-- ✨ CLEAN TRANSPARENT ULTRA-PREMIUM HEADER ✨ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&text=Sakshi%20Kadu&fontColor=e2d9f3&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20App%20Builder%20%E2%80%A2%20Final%20Year%20CSE&descAlignY=57&descSize=17&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A855F7&text=Sakshi%20Kadu&fontSize=65&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20App%20Builder%20%E2%80%A2%20Final%20Year%20CSE&descAlignY=65&descSize=18&animation=fadeIn" alt="Sakshi Kadu Header" />
 </div>
+
+<!-- CONNECT WITH ME BADGES (FIXED: NO BLUE UNDERLINES) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Kadusakshi945@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/user_whn0mee93vd/" target="_blank"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" /></a>
+  <a href="https://instagram.com/Sakshi_k945" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.codechef.com/users/cloud_spell_36" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
 
 <div align="center">
 
