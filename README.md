@@ -21,27 +21,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:Kadusakshi945@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/Sakshi_kadu945/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/user_whn0mee93vd/">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://instagram.com/Sakshi_k945">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/cloud_spell_36">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
