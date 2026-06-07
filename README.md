@@ -1,31 +1,30 @@
-<!-- 🌌 ULTRA-COOL CYBERPUNK SLICE BANNER (NO BLOCKY BG) 🌌 -->
+<!-- 🌌 ULTRA-COOL CYBERPUNK SLICE BANNER WITH LETTER-BY-LETTER TYPING 🌌 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=70&descSize=16&animation=fadeIn" alt="Sakshi Kadu Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=70&descSize=16&animation=twinkling" alt="Sakshi Kadu Header" />
 </div>
 
 <br/>
 
-<!-- 💎 PRESERVED PREMIUM SOCIAL BADGES (0% BLUE LINE RISK) 💎 -->
-<table align="center" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; padding: 0 5px;"><a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 5px;"><a href="mailto:Kadusakshi945@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 5px;"><a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a></td>
-    <td style="border: none; padding: 0 5px;"><a href="https://www.geeksforgeeks.org/user/user_whn0mee93vd/" target="_blank"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 5px;"><a href="https://instagram.com/Sakshi_k945" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
-    <td style="border: none; padding: 0 5px;"><a href="https://www.codechef.com/users/cloud_spell_36" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a></td>
-  </tr>
-</table>
+<!-- 💎 PRESERVED MINIMALIST LOGOS (NO BOXES, NO BLUE LINES) 💎 -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg" width="32" height="32" style="margin: 0 8px;" />
+  </a>
+  <a href="mailto:Kadusakshi945@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg" width="32" height="32" style="margin: 0 8px;" />
+  </a>
+  <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg" width="32" height="32" style="margin: 0 8px;" />
+  </a>
+  <a href="https://instagram.com/Sakshi_k945" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="32" height="32" style="margin: 0 8px;" />
+  </a>
+</div>
 
 <br/>
 
-<!-- ⚡ TERMINAL STYLE ANIMATED TICKER ⚡ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9B72CF&center=true&vCenter=true&width=850&lines=🚀+Final+year+CSE+%40+YCCE+Nagpur;💻+MERN+Stack+%2B+AI+APIs+%3D+My+core+domain;🧠+500%2B+DSA+problems+cracked+%26+counting;🔥+Building+Clixora+—+an+AI+thumbnail+generator;🎯+Looking+for+SDE+%26+Frontend+opportunities" alt="Typing Ticker" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <code>[system_override]: "I don't just learn tech — I build with it."</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B72CF&center=true&vCenter=true&width=850&lines=Final+year+CSE+%40+YCCE+Nagpur+%F0%9F%8E%93;MERN+Stack+%2B+AI+APIs+%3D+my+stack+of+choice;500%2B+DSA+problems+%E2%80%94+still+counting;Currently+shipping+Clixora+%F0%9F%9A%80;Open+to+SDE+%26+Frontend+roles" />
 </div>
 
 ---
@@ -97,21 +96,21 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi123509&theme=react-dark&hide_border=true&area=true&color=9B72CF&line=9B72CF&point=e2d9f3&custom_title=Sakshi's%20Contribution%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi123509&theme=react-dark&hide_border=true&area=true&color=9B72CF&line=9B72CF&point=e2d9f3&custom_title=Sakshi's%20Contribution%20Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Sakshi123509&theme=dark&hide_border=true&ring=9B72CF&fire=e879a0&currStreakLabel=9B72CF&sideLabels=9B72CF&dates=888" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshi123509&show_icons=true&theme=dark&hide_border=true&icon_color=9B72CF&title_color=9B72CF&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Sakshi123509&theme=dark&hide_border=true&ring=9B72CF&fire=e879a0&currStreakLabel=9B72CF&sideLabels=9B72CF&dates=888" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshi123509&show_icons=true&theme=dark&hide_border=true&icon_color=9B72CF&title_color=9B72CF&include_all_commits=true&count_private=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi123509&theme=dark&hide_border=true&layout=compact&title_color=9B72CF" />
-  <img width="49%" src="https://leetcard.jacoblin.cool/Sakshi_kadu945?theme=dark&font=Fira+Code&ext=heatmap&border=0" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi123509&theme=dark&hide_border=true&layout=compact&title_color=9B72CF" />
+  <img width="49%" src="https://leetcard.jacoblin.cool/Sakshi_kadu945?theme=dark&font=Fira+Code&ext=heatmap&border=0" />
 </div>
 
 ---
@@ -119,16 +118,15 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi123509&column=6&theme=dark_lover&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi123509&column=6&theme=dark_lover&no-frame=true&no-bg=true&margin-w=6" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi123509&style=flat-square&color=9B72CF&label=Profile+Views" />
-  <br/><br/>
-  <sub>✦ Open to work — SDE & Frontend Developer roles ✦</sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:533483,60:0f3460,100:1a1a2e&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=Sakshi123509&style=flat-square&color=9B72CF&label=Profile+Views" />
+  <br/><br/>
+  <sub>✦ Open to work — SDE & Frontend Developer roles ✦</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:533483,60:0f3460,100:1a1a2e&section=footer" />
 </div>
- add in it
