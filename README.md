@@ -1,25 +1,25 @@
-<!-- 🌌 ULTRA-COOL CYBERPUNK SLICE BANNER WITH LETTER-BY-LETTER TYPING 🌌 -->
+<!-- 🌌 ULTRA-COOL CYBERPUNK SLICE BANNER WITH CHARACTER TYPING 🌌 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=70&descSize=16&animation=twinkling" alt="Sakshi Kadu Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=70&descSize=16&animation=typing" alt="Sakshi Kadu Header" />
 </div>
 
 <br/>
 
-<!-- 💎 PRESERVED MINIMALIST LOGOS (NO BOXES, NO BLUE LINES) 💎 -->
-<div align="center">
+<!-- 💎 VERIFIED FLAT MINIMALIST LOGOS (NO REPO DEPENDENCY, NO BOXES, NO BLUE LINES) 💎 -->
+<p align="center">
   <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg" width="32" height="32" style="margin: 0 8px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:Kadusakshi945@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg" width="32" height="32" style="margin: 0 8px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="Gmail"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg" width="32" height="32" style="margin: 0 8px;" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="LeetCode"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/Sakshi_k945" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="32" height="32" style="margin: 0 8px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) contrast(90%); margin: 0 12px;" alt="Instagram"/>
   </a>
-</div>
+</p>
 
 <br/>
 
