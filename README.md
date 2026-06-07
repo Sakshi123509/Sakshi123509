@@ -5,14 +5,20 @@
 
 <br/>
 
-<!-- 🌐 TEXT-BASED MINIMALIST SOCIAL LINKS (NO IMAGES = 0% BROKEN RISK) -->
+<!-- 💎 PRESERVED MINIMALIST ICONS (HIGH CONTRAST, 0% BLUE LINE RISK) 💎 -->
 <div align="center">
-  <strong>
-    <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank">🔗 LinkedIn</a> &nbsp;•&nbsp; 
-    <a href="mailto:Kadusakshi945@gmail.com">📧 Gmail</a> &nbsp;•&nbsp; 
-    <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank">💡 LeetCode</a> &nbsp;•&nbsp; 
-    <a href="https://instagram.com/Sakshi_k945" target="_blank">📸 Instagram</a>
-  </strong>
+  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
+  </a>
+  <a href="mailto:Kadusakshi945@gmail.com" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
+  </a>
+  <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
+  </a>
+  <a href="https://instagram.com/Sakshi_k945" target="_blank" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" width="35" height="35" style="margin: 0 10px; display: inline-block; text-decoration: none;" />
+  </a>
 </div>
 
 <br/>
@@ -63,7 +69,7 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 **Languages & Tools**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&gradient=true&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
