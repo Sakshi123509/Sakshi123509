@@ -5,21 +5,15 @@
 
 <br/>
 
-<!-- 💎 VERIFIED FLAT MINIMALIST LOGOS (NO REPO DEPENDENCY, NO BOXES, NO BLUE LINES) 💎 -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%); margin: 0 12px;" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Kadusakshi945@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) ; margin: 0 12px;" alt="Gmail"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%) ; margin: 0 12px;" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/Sakshi_k945" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" style="filter: invert(49%) sepia(93%) saturate(372%) hue-rotate(222deg) brightness(92%); margin: 0 12px;" alt="Instagram"/>
-  </a>
-</p>
+<!-- 🌐 TEXT-BASED MINIMALIST SOCIAL LINKS (NO IMAGES = 0% BROKEN RISK) -->
+<div align="center">
+  <strong>
+    <a href="https://www.linkedin.com/in/sakshi-kadu-40a441322" target="_blank">🔗 LinkedIn</a> &nbsp;•&nbsp; 
+    <a href="mailto:Kadusakshi945@gmail.com">📧 Gmail</a> &nbsp;•&nbsp; 
+    <a href="https://leetcode.com/u/Sakshi_kadu945/" target="_blank">💡 LeetCode</a> &nbsp;•&nbsp; 
+    <a href="https://instagram.com/Sakshi_k945" target="_blank">📸 Instagram</a>
+  </strong>
+</div>
 
 <br/>
 
@@ -69,7 +63,7 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 **Languages & Tools**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&gradient=true&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -93,39 +87,16 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 
 ---
 
-### 📊 GitHub Activity
+### 📊 LeetCode Metrics
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi123509&theme=react-dark&hide_border=true&area=true&color=9B72CF&line=9B72CF&point=e2d9f3&custom_title=Sakshi's%20Contribution%20Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Sakshi123509&theme=dark&hide_border=true&ring=9B72CF&fire=e879a0&currStreakLabel=9B72CF&sideLabels=9B72CF&dates=888" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshi123509&show_icons=true&theme=dark&hide_border=true&icon_color=9B72CF&title_color=9B72CF&include_all_commits=true&count_private=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi123509&theme=dark&hide_border=true&layout=compact&title_color=9B72CF" />
-  <img width="49%" src="https://leetcard.jacoblin.cool/Sakshi_kadu945?theme=dark&font=Fira+Code&ext=heatmap&border=0" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshi123509&column=6&theme=dark_lover&no-frame=true&no-bg=true&margin-w=6" />
+  <img width="65%" src="https://leetcard.jacoblin.cool/Sakshi_kadu945?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode Card" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi123509&style=flat-square&color=9B72CF&label=Profile+Views" />
-  <br/><br/>
+  <br/>
   <sub>✦ Open to work — SDE & Frontend Developer roles ✦</sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:533483,60:0f3460,100:1a1a2e&section=footer" />
