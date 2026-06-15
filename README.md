@@ -22,7 +22,7 @@
 <br/>
 
 <!-- ⚡ TERMINAL STYLE ANIMATED TICKER ⚡ -->
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B72CF&center=true&vCenter=true&width=850&lines=Final+year+CSE+%40+YCCE+Nagpur+%F0%9F%8E%93;MERN+Stack+%2B+AI+APIs+%3D+my+stack+of+choice;500%2B+DSA+problems+%E2%80%94+still+counting;Currently+shipping+Clixora+%F0%9F%9A%80;Open+to+SDE+%26+Frontend+roles" />
 </div>
 
@@ -55,7 +55,7 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&white)
 
 **Backend & Database**
 
@@ -88,6 +88,19 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 | 03 | **ARIA** | AI assistant built on Gemini API with context-aware responses | ✅ Live |
 | 04 | **MockMind** | AI mock interview platform with real-time feedback | 📋 Soon |
 
+</div>
+
+---
+
+### 📈 GitHub Activity & Contribution Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi123509&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sakshi's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi123509&theme=tokyonight&hide_border=true" alt="Sakshi's Streak Stats" width="48%"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi123509&bg_color=1a1a2e&color=9B72CF&line=533483&point=ffffff&area=true&hide_border=true" alt="Sakshi's Contribution Graph" width="97%"/>
 </div>
 
 ---
