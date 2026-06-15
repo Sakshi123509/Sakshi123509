@@ -95,9 +95,16 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 ### 📈 GitHub Activity & Contribution Metrics
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Sakshi123509&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sakshi's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi123509&theme=tokyonight&hide_border=true" alt="Sakshi's Streak Stats" width="48%"/>
-</div>
+
+  
+
+  <br/><br/>
+
+  
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi123509&bg_color=1a1a2e&color=9B72CF&line=533483&point=ffffff&area=true&hide_border=true" alt="Sakshi's Contribution Graph" width="97%"/></div>
 
 ---
 
