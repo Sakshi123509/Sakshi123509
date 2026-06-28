@@ -83,10 +83,11 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 
 | # | Project | What It Does | Status |
 |---|---------|-------------|--------|
-| 01 | **Clixora** | AI-powered thumbnail generator — full-stack, auth complete, shipping fast | 🔨 Active |
-| 02 | **ShieldHer** | Women's safety app with ESP32 + GPS hardware integration | ✅ Live |
-| 03 | **ARIA** | AI assistant built on Gemini API with context-aware responses | ✅ Live |
-| 04 | **MockMind** | AI mock interview platform with real-time feedback | 📋 Soon |
+| 01 | **MockMind** | AI mock interview platform with real-time feedback | 🔨 Active |
+| 02 | **Clixora** | AI-powered thumbnail generator — full-stack, auth complete, shipping fast | ✅ Live  |
+| 03 | **ShieldHer** | Women's safety app with ESP32 + GPS hardware integration | ✅ Live |
+| 04 | **ARIA** | AI assistant built on Gemini API with context-aware responses | ✅ Live |
+
 
 </div>
 
