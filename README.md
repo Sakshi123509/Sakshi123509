@@ -34,11 +34,10 @@
 
 I'm Sakshi — a final-year CS student who got tired of watching tutorials and started building instead.
 
-- 🎓 B.Tech CSE @ **YCCE, Nagpur** (2022–2026)
-- 🔨 Currently building **Clixora** — an AI thumbnail generator (Day 5/10 self-imposed deadline)
-- 🧠 Active on DSA — 500+ problems, deep in **dynamic programming** right now
+- 🎓 B.Tech CSE @ **YCCE, Nagpur** (2023-2027)
+- 🧠 Active on DSA — 500+ problems (2 star codchef)
 - 💼 Previously interned as a developer; two live projects on my resume
-- 🎯 Targeting **SDE / Frontend Developer** roles — full-time or internship
+- 🎯 Targeting **SDE / Full stack developer** roles — full-time or internship
 - 🎶 Best code comes with calm music in the background
 
 <br clear="right"/>
@@ -55,7 +54,7 @@ I'm Sakshi — a final-year CS student who got tired of watching tutorials and s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&white)
+![Next](https://nextjs.org/)
 
 **Backend & Database**
 
