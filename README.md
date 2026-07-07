@@ -1,25 +1,7 @@
 <!-- 🌌 ULTRA-COOL CYBERPUNK SLICE BANNER WITH CHARACTER TYPING 🌌 --> 
-<!-- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=50&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=80&descSize=16&animation=typing" alt="Sakshi Kadu Header" /> -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=50&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=80&descSize=16&animation=typing" alt="Sakshi Kadu Header" /> 
 <div align="center">
 
-<picture>
-  <!-- Dark Mode -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=50&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=80&descSize=16&animation=typing"
-  />
-
-  <!-- Light Mode -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:F8F9FA,50:E9ECEF,100:DEE2E6&text=Sakshi%20Kadu&fontColor=000000&fontSize=60&fontAlignY=50&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=80&descSize=16&animation=typing"
-  />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:9B72CF,50:533483,100:1a1a2e&text=Sakshi%20Kadu&fontColor=ffffff&fontSize=60&fontAlignY=50&desc=Full%20Stack%20Developer%20•%20AI%20App%20Builder%20•%20Final%20Year%20CSE&descAlignY=80&descSize=16&animation=typing"
-    alt="Sakshi Kadu Banner"
-  />
-</picture>
 
 </div>
 <br/>
